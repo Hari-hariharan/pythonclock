@@ -4,7 +4,7 @@
 
 > Tkinter GUI project for timekeeping
 
-A simple clock GUI project that I worked on to improve coding habits,improve my knowledge of tkinter and pygame modules, and utilize a database. When complete, this will be a fully functioning program similar to the "Clock" app on Android or its iOS equivalent. It has support for a local digital clock, remainder, alarms, and a timer at the moment. I had add customizable messages, sounds.
+A simple clock GUI project that I worked on to improve coding habits,improve my knowledge of tkinter and plyer modules, and utilize a database. When complete, this will be a fully functioning program similar to the "Clock" app on Android . It has support for a local digital clock, remainder, alarms, and a timer at the moment. I had add customizable messages, sounds.
 
 ## Code Samples
 
